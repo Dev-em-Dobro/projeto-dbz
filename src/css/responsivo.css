@@ -6,6 +6,7 @@
 
     main .personagem .imagem {
         height: 85%;
+        object-position: center;
     }
 
     .conteudo {
